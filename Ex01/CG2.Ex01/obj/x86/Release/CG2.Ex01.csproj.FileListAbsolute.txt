@@ -1,0 +1,8 @@
+D:\School\Phd Degree\Teaching\2014\CG2\Ex01\Code 2010\CG2.Ex01\CG2.Ex01\bin\Release\CG2.Ex01.exe
+D:\School\Phd Degree\Teaching\2014\CG2\Ex01\Code 2010\CG2.Ex01\CG2.Ex01\bin\Release\CG2.Ex01.pdb
+D:\School\Phd Degree\Teaching\2014\CG2\Ex01\Code 2010\CG2.Ex01\CG2.Ex01\obj\x86\Release\CG2.Ex01.Form1.resources
+D:\School\Phd Degree\Teaching\2014\CG2\Ex01\Code 2010\CG2.Ex01\CG2.Ex01\obj\x86\Release\CG2.Ex01.Properties.Resources.resources
+D:\School\Phd Degree\Teaching\2014\CG2\Ex01\Code 2010\CG2.Ex01\CG2.Ex01\obj\x86\Release\CG2.Ex01.csproj.GenerateResource.Cache
+D:\School\Phd Degree\Teaching\2014\CG2\Ex01\Code 2010\CG2.Ex01\CG2.Ex01\obj\x86\Release\CG2.Ex01.exe
+D:\School\Phd Degree\Teaching\2014\CG2\Ex01\Code 2010\CG2.Ex01\CG2.Ex01\obj\x86\Release\CG2.Ex01.pdb
+D:\School\Phd Degree\Teaching\2014\CG2\Ex01\Code 2010\CG2.Ex01\CG2.Ex01\obj\x86\Release\CG2.Ex01.csprojResolveAssemblyReference.cache
