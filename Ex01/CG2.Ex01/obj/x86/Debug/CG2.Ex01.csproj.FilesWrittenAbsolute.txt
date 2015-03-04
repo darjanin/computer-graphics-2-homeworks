@@ -5,3 +5,10 @@
 /Users/miland/Downloads/Ex01/CG2.Ex01/bin/Debug/CG2.Ex01.exe
 /Users/miland/Downloads/Ex01/CG2.Ex01/obj/x86/Debug/CG2.Ex01.exe
 /Users/miland/Downloads/Ex01/CG2.Ex01/obj/x86/Debug/CG2.Ex01.exe.mdb
+/Users/miland/Documents/Matfyz/Homeworks/computer-graphics-2-homeworks/Ex01/CG2.Ex01/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/Users/miland/Documents/Matfyz/Homeworks/computer-graphics-2-homeworks/Ex01/CG2.Ex01/obj/x86/Debug/CG2.Ex01.Form1.resources
+/Users/miland/Documents/Matfyz/Homeworks/computer-graphics-2-homeworks/Ex01/CG2.Ex01/obj/x86/Debug/CG2.Ex01.Properties.Resources.resources
+/Users/miland/Documents/Matfyz/Homeworks/computer-graphics-2-homeworks/Ex01/CG2.Ex01/bin/Debug/CG2.Ex01.exe.mdb
+/Users/miland/Documents/Matfyz/Homeworks/computer-graphics-2-homeworks/Ex01/CG2.Ex01/bin/Debug/CG2.Ex01.exe
+/Users/miland/Documents/Matfyz/Homeworks/computer-graphics-2-homeworks/Ex01/CG2.Ex01/obj/x86/Debug/CG2.Ex01.exe
+/Users/miland/Documents/Matfyz/Homeworks/computer-graphics-2-homeworks/Ex01/CG2.Ex01/obj/x86/Debug/CG2.Ex01.exe.mdb
