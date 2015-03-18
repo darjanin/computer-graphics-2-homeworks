@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="CG2.Ex02/CG2.Ex02.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CG2.Ex02/Modeling/AABB.cs">
+    <Files>
+      <File FileName="CG2.Ex02/Modeling/Plane.cs" Line="4" Column="4" />
+      <File FileName="CG2.Ex02/Modeling/Sphere.cs" Line="26" Column="26" />
+      <File FileName="CG2.Ex02/Mathematics/Vector4.cs" Line="59" Column="59" />
+      <File FileName="CG2.Ex02/Form1.cs" Line="11" Column="11" />
+      <File FileName="CG2.Ex02/Modeling/Triangle.cs" Line="4" Column="4" />
+      <File FileName="CG2.Ex02/Modeling/AABB.cs" Line="39" Column="39" />
+      <File FileName="CG2.Ex02/Modeling/Ring.cs" Line="48" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
