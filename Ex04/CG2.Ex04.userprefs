@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="CG2.Ex04/CG2.Ex04.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CG2.Ex04/Rendering/Camera.cs">
+    <Files>
+      <File FileName="CG2.Ex04/Rendering/Camera.cs" Line="125" Column="36" />
+      <File FileName="CG2.Ex04/Rendering/Ray.cs" Line="1" Column="1" />
+      <File FileName="CG2.Ex04/Shading/Phong.cs" Line="1" Column="1" />
+      <File FileName="CG2.Ex04/Shading/Shader.cs" Line="1" Column="1" />
+      <File FileName="CG2.Ex04/Form1.cs" Line="17" Column="2" />
+      <File FileName="CG2.Ex04/Lighting/AreaLight.cs" Line="29" Column="36" />
+      <File FileName="CG2.Ex04/Lighting/Light.cs" Line="1" Column="1" />
+      <File FileName="CG2.Ex04/Lighting/SpotLight.cs" Line="50" Column="39" />
+      <File FileName="CG2.Ex04/Lighting/SunLight.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
